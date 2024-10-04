@@ -1,0 +1,8 @@
+C:\AL\Emydex\Exam\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe.config
+C:\AL\Emydex\Exam\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.exe
+C:\AL\Emydex\Exam\FarmSystem.Test1\bin\Debug\FarmSystem.Test1.pdb
+C:\AL\Emydex\Exam\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csproj.AssemblyReference.cache
+C:\AL\Emydex\Exam\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csproj.SuggestedBindingRedirects.cache
+C:\AL\Emydex\Exam\FarmSystem.Test1\obj\Debug\FarmSystem.Test.csproj.CoreCompileInputs.cache
+C:\AL\Emydex\Exam\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.exe
+C:\AL\Emydex\Exam\FarmSystem.Test1\obj\Debug\FarmSystem.Test1.pdb
